@@ -1,0 +1,11 @@
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\BinaryTree.dll
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\obj\Debug\BinaryTree.dll
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\AlgorithmsPlayground.dll
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\Queue.dll
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\AlgorithmsPlayground.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\Queue.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\BinaryTree\bin\Debug\LinkedList.pdb

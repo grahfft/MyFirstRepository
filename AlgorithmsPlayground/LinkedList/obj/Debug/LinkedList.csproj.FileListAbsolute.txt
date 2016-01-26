@@ -1,0 +1,5 @@
+D:\Algorithms Playground\AlgorithmsPlayground\LinkedList\bin\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\LinkedList\bin\Debug\LinkedList.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\LinkedList\obj\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\LinkedList\obj\Debug\LinkedList.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache

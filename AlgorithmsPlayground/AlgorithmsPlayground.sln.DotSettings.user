@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D32D686591FC4D828436AFFB2F2B5275/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D32D686591FC4D828436AFFB2F2B5275/Name/@EntryValue">NumberOfComparisonsFirstElementTest #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=D32D686591FC4D828436AFFB2F2B5275/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.MedianMaintenaceTest" type="MsTestTestClassElement" TypeName="TestAlgorithms.MedianMaintenaceTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.MinCutTest" type="MsTestTestClassElement" TypeName="TestAlgorithms.MinCutTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.SccTest" type="MsTestTestClassElement" TypeName="TestAlgorithms.SccTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.ShortestPathTest" type="MsTestTestClassElement" TypeName="TestAlgorithms.ShortestPathTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.TestTwoSum" type="MsTestTestClassElement" TypeName="TestAlgorithms.TestTwoSum" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.MedianMaintenaceTest.CalculateMedianModulo" ParentId="MsTest:TestAlgorithms.MedianMaintenaceTest" type="MsTestTestMethodElement" MethodName="CalculateMedianModulo" TypeName="TestAlgorithms.MedianMaintenaceTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.MinCutTest.CalculateMinCut" ParentId="MsTest:TestAlgorithms.MinCutTest" type="MsTestTestMethodElement" MethodName="CalculateMinCut" TypeName="TestAlgorithms.MinCutTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.ShortestPathTest.ComputeShortestPath" ParentId="MsTest:TestAlgorithms.ShortestPathTest" type="MsTestTestMethodElement" MethodName="ComputeShortestPath" TypeName="TestAlgorithms.ShortestPathTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.SccTest.TestSccCalculator" ParentId="MsTest:TestAlgorithms.SccTest" type="MsTestTestMethodElement" MethodName="TestSccCalculator" TypeName="TestAlgorithms.SccTest" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:TestAlgorithms.TestTwoSum.TwoSumTest" ParentId="MsTest:TestAlgorithms.TestTwoSum" type="MsTestTestMethodElement" MethodName="TwoSumTest" TypeName="TestAlgorithms.TestTwoSum" Project="20976F38-955A-418A-AD5E-0394516CB823" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

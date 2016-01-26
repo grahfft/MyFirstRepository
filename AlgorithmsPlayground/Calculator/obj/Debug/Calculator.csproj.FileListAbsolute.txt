@@ -1,0 +1,11 @@
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\Calculator.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\Calculator.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\AlgorithmsPlayground.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\Queue.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\AlgorithmsPlayground.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\LinkedList.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\bin\Debug\Queue.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\obj\Debug\Calculator.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Calculator\obj\Debug\Calculator.pdb

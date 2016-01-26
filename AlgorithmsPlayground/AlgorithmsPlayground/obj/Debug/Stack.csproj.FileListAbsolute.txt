@@ -1,0 +1,7 @@
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\bin\Debug\AlgorithmsPlayground.dll
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\bin\Debug\AlgorithmsPlayground.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\obj\Debug\AlgorithmsPlayground.dll
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\obj\Debug\AlgorithmsPlayground.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\bin\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsPlayground\bin\Debug\LinkedList.pdb

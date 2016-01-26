@@ -1,0 +1,7 @@
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\bin\Debug\Queue.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\bin\Debug\Queue.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\bin\Debug\LinkedList.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\bin\Debug\LinkedList.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\obj\Debug\Queue.dll
+D:\Algorithms Playground\AlgorithmsPlayground\Queue\obj\Debug\Queue.pdb

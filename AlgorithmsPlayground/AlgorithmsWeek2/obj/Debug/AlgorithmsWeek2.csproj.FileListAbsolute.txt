@@ -1,0 +1,5 @@
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsWeek2\bin\Debug\AlgorithmsWeek2.dll
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsWeek2\bin\Debug\AlgorithmsWeek2.pdb
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsWeek2\obj\Debug\AlgorithmsWeek2.csprojResolveAssemblyReference.cache
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsWeek2\obj\Debug\AlgorithmsWeek2.dll
+D:\Algorithms Playground\AlgorithmsPlayground\AlgorithmsWeek2\obj\Debug\AlgorithmsWeek2.pdb
